@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImagePickerLibrary</string>
+    <string name="toast_no_photo">没有找到图片</string>
+    <string name="crop_free">自由比例</string>
+    <string name="crop_original">原始比例</string>
+
+</resources>

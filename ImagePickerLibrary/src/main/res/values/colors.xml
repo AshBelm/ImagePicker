@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5DAC81</color>
+    <color name="colorPrimaryDark">#4F916D</color>
+    <color name="colorAccent">#5DAC81</color>
+    <color name="colorNavigationBar">#5DAC81</color>
+    <color name="windowBackground">#1C1C1C</color>
+    <color name="colorButtonNormal">#FFFFFB</color>
+    <color name="textColorPrimary">#FFFFFB</color>
+    <color name="textColorPrimaryInverse">#1C1C1C</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <!-- 100%=FF（不透明）    95%=F2    90%=E5    85%=D8    80%=CC    75%=BF    70%=B2    65%=A5    60%=99    55%=8c    50%=7F
+45%=72    64%=66    35%=59    30%=4c    25%=3F    20%=33    15%=21    10%=19    5%=0c    0%=00（全透明）
+87%=DD(主要文字) 54%=8A(次要文字) 26%=42(更次要的文字)-->
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_major">#DDFFFFFF</color>
+    <color name="white_major_less">#BFFFFFFF</color>
+    <color name="white_minor">#8AFFFFFF</color>
+    <color name="white_minor_less">#42FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="black_major">#DD000000</color>
+    <color name="black_major_less">#BF000000</color>
+    <color name="black_minor">#8A000000</color>
+    <color name="black_minor_less">#42000000</color>
+    <color name="gray">#FF999999</color>
+    <color name="gray_major">#DD999999</color>
+    <color name="gray_major_less">#BF999999</color>
+    <color name="gray_minor">#8A999999</color>
+    <color name="gray_minor_less">#42999999</color>
+    <color name="white_a15">#21FFFFFF</color>
+    <color name="white_a20">#33FFFFFF</color>
+    <color name="white_a90">#E5FFFFFF</color>
+    <color name="pink">#ffec7091</color>
+    <color name="red">#f00</color>
+    <color name="green">#0f0</color>
+    <color name="blue">#00f</color>
+    <color name="amber_900">#ff6f00</color>
+    <color name="green_light_900">#33691e</color>
+    <color name="blue_light_900">#01579b</color>
+    <color name="blue_light_700">#0288d1</color>
+
+    <color name="title">#2962FF</color>
+    <color name="background">#f9f9f9</color>
+</resources>
